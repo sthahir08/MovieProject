@@ -6,4 +6,3 @@ class Movies(models.Model):
     actor=models.CharField(max_length=30)
     actress=models.CharField(max_length=30)
     rating=models.IntegerField()
-    

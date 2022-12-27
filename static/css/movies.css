@@ -1,5 +1,7 @@
 body{
-    background-color: LightYellow;
+    background-image: url("https://img.freepik.com/free-vector/cinema-movie-film-festival-poster-design-background_1017-31194.jpg?w=740&t=st=1672123527~exp=1672124127~hmac=88986ab71f2544236d3c3449ad229f6efdff0701eb7fd5a9c2301e6ace342499");
+    background-size: cover;
+    background-repeat: no-repeat;
 	color:darkgreen;
 }
 table,tr,td,thead,th{
